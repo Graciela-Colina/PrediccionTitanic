@@ -1,7 +1,7 @@
 # PrediccionTitanic
 Modelos de aprendizaje automático para determinar si un pasajero sobreviviría o moriría.
 
-### Proyecto de Prediccion: Para este proyecto tenemos una data distribuida en diferentes tipos de archivos los cuales tienen informacion de pasajeron del Titanic, estos archivos seran concatenados para tener una data mas robusta para nuestro modelo de entrenamiento. Nuestro modelo predecira si una persona Sobrevivia o Moriria al hundimiento del barco. 
+### Proyecto de Prediccion: Para este proyecto tenemos una data distribuida en diferentes tipos de archivos los cuales tienen informacion de pasajeros del Titanic, estos archivos seran concatenados para tener una data mas robusta para nuestro modelo de entrenamiento. El modelo elegido tendra la tarea de predecir si una persona Sobreviviria o Moriria al hundimiento del barco. 
 
 
 ## Requisitos
